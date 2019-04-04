@@ -1,11 +1,11 @@
 {
-  "name": "upload-js",
+  "name": "uploadman",
   "version": "1.0.0",
   "description": "A lightweight AJAX upload library.",
   "license": "MIT",
-  "homepage": "https://github.com/lisniuse/upload-js",
-  "repository": "https://github.com/lisniuse/upload-js",
-  "bugs": "https://github.com/lisniuse/upload-js/issues",
+  "homepage": "https://github.com/lisniuse/uploadman",
+  "repository": "https://github.com/lisniuse/uploadman",
+  "bugs": "https://github.com/lisniuse/uploadman/issues",
   "keywords": [
     "model",
     "form",
@@ -15,9 +15,9 @@
   "authors": [
     "Zhibin Chen <17560235@qq.com> (https://github.com/lisniuse)"
   ],
-  "main": "dist/cjs/upload-js.js",
-  "unpkg": "dist/umd/upload-js.js",
-  "module": "dist/es/upload-js.js",
+  "main": "dist/cjs/uploadman.js",
+  "unpkg": "dist/umd/uploadman.js",
+  "module": "dist/es/uploadman.js",
   "typings": "./index.d.ts",
   "files": [
     "dist",
@@ -68,7 +68,7 @@
     "typescript": "^3.2.4",
     "typings-tester": "^0.3.2"
   },
-  "npmName": "upload-js",
+  "npmName": "uploadman",
   "npmFileMap": [
     {
       "basePath": "/dist/",
